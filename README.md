@@ -2,7 +2,7 @@
 
 ## Live demo
 ```
-https://weather-app-1247.web.app
+[Weather App](https://weather-app-1247.web.app)
 ```
 
 ## Snapshots
